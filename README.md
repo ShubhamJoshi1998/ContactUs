@@ -27,10 +27,7 @@ A modern and responsive **Contact Us Form** built using **React.js** for the fro
 
 ```
 contact-form/
-## 📂 Project Structure
-
-```
-src/
+│── src/
 │── Components/
 │   ├── talkToUs.css
 │   └── talkToUs.js
@@ -39,6 +36,7 @@ src/
 │── App.js
 │── App.test.js
 │── index.css
+│
 │── public/
 │── package.json
 │── README.md
